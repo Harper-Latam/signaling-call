@@ -1,4 +1,4 @@
-module github.com/alejo-lapix/signaling-call
+module github.com/Harper-Latam/signaling-call
 
 go 1.14
 
